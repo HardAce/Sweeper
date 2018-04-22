@@ -52,6 +52,8 @@ class Room:
             if i not in self.events:
                 self.events[i] = event[i]
 
+#optional harder enemies that can be avoided but drop improved loot
+
 # Create a 2 dimensional array. A two dimensional
 # array is simply a list of lists.
 grid = []
